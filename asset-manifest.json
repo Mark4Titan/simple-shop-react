@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/simple-shop-react/static/css/main.102271a2.css",
-    "main.js": "/simple-shop-react/static/js/main.aa181288.js",
+    "main.js": "/simple-shop-react/static/js/main.507d7b0e.js",
     "static/js/787.7de8d527.chunk.js": "/simple-shop-react/static/js/787.7de8d527.chunk.js",
     "static/media/logo.png": "/simple-shop-react/static/media/logo.563ef28ccb2f9d5a95d7.png",
     "index.html": "/simple-shop-react/index.html",
     "main.102271a2.css.map": "/simple-shop-react/static/css/main.102271a2.css.map",
-    "main.aa181288.js.map": "/simple-shop-react/static/js/main.aa181288.js.map",
+    "main.507d7b0e.js.map": "/simple-shop-react/static/js/main.507d7b0e.js.map",
     "787.7de8d527.chunk.js.map": "/simple-shop-react/static/js/787.7de8d527.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.102271a2.css",
-    "static/js/main.aa181288.js"
+    "static/js/main.507d7b0e.js"
   ]
 }
