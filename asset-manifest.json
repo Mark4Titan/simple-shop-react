@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/simple-shop-react/static/css/main.102271a2.css",
-    "main.js": "/simple-shop-react/static/js/main.1039d6d3.js",
+    "main.js": "/simple-shop-react/static/js/main.48d61b89.js",
     "static/js/787.7de8d527.chunk.js": "/simple-shop-react/static/js/787.7de8d527.chunk.js",
+    "static/media/promo2.jpg": "/simple-shop-react/static/media/promo2.34b6065049d71fc80bb8.jpg",
+    "static/media/promo1.jpg": "/simple-shop-react/static/media/promo1.50cdf0495c5b2efdd5e0.jpg",
+    "static/media/promo3.jpg": "/simple-shop-react/static/media/promo3.58046b6cf1d413838815.jpg",
     "static/media/logo.png": "/simple-shop-react/static/media/logo.563ef28ccb2f9d5a95d7.png",
     "index.html": "/simple-shop-react/index.html",
     "main.102271a2.css.map": "/simple-shop-react/static/css/main.102271a2.css.map",
-    "main.1039d6d3.js.map": "/simple-shop-react/static/js/main.1039d6d3.js.map",
+    "main.48d61b89.js.map": "/simple-shop-react/static/js/main.48d61b89.js.map",
     "787.7de8d527.chunk.js.map": "/simple-shop-react/static/js/787.7de8d527.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.102271a2.css",
-    "static/js/main.1039d6d3.js"
+    "static/js/main.48d61b89.js"
   ]
 }
