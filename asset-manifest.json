@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/simple-shop-react/static/css/main.102271a2.css",
-    "main.js": "/simple-shop-react/static/js/main.78b13c66.js",
+    "main.css": "/simple-shop-react/static/css/main.4b165e7e.css",
+    "main.js": "/simple-shop-react/static/js/main.8114c795.js",
     "static/js/787.7de8d527.chunk.js": "/simple-shop-react/static/js/787.7de8d527.chunk.js",
     "static/media/promo2.jpg": "/simple-shop-react/static/media/promo2.34b6065049d71fc80bb8.jpg",
     "static/media/promo1.jpg": "/simple-shop-react/static/media/promo1.50cdf0495c5b2efdd5e0.jpg",
@@ -13,12 +13,12 @@
     "static/media/delivery-logo.webp": "/simple-shop-react/static/media/delivery-logo.3d393efe0d5ab1cb0cf2.webp",
     "index.html": "/simple-shop-react/index.html",
     "static/media/Pay.svg": "/simple-shop-react/static/media/Pay.8998395fa68853c02d3f80fa2bc48450.svg",
-    "main.102271a2.css.map": "/simple-shop-react/static/css/main.102271a2.css.map",
-    "main.78b13c66.js.map": "/simple-shop-react/static/js/main.78b13c66.js.map",
+    "main.4b165e7e.css.map": "/simple-shop-react/static/css/main.4b165e7e.css.map",
+    "main.8114c795.js.map": "/simple-shop-react/static/js/main.8114c795.js.map",
     "787.7de8d527.chunk.js.map": "/simple-shop-react/static/js/787.7de8d527.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.102271a2.css",
-    "static/js/main.78b13c66.js"
+    "static/css/main.4b165e7e.css",
+    "static/js/main.8114c795.js"
   ]
 }
