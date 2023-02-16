@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/simple-shop-react/static/css/main.4b165e7e.css",
-    "main.js": "/simple-shop-react/static/js/main.8114c795.js",
+    "main.js": "/simple-shop-react/static/js/main.bc283ca2.js",
     "static/js/787.7de8d527.chunk.js": "/simple-shop-react/static/js/787.7de8d527.chunk.js",
     "static/media/promo2.jpg": "/simple-shop-react/static/media/promo2.34b6065049d71fc80bb8.jpg",
     "static/media/promo1.jpg": "/simple-shop-react/static/media/promo1.50cdf0495c5b2efdd5e0.jpg",
     "static/media/promo3.jpg": "/simple-shop-react/static/media/promo3.58046b6cf1d413838815.jpg",
     "static/media/logo.png": "/simple-shop-react/static/media/logo.563ef28ccb2f9d5a95d7.png",
-    "static/media/p24.webp": "/simple-shop-react/static/media/p24.4a1d82bde35471c6094c.webp",
+    "static/media/p24.webp": "/simple-shop-react/static/media/p24.9cc15209dd3cf2b407e7.webp",
+    "static/media/gpay.webp": "/simple-shop-react/static/media/gpay.9f880efad43a96d4bc8d.webp",
     "static/media/visa.svg": "/simple-shop-react/static/media/visa.5761de5f3a8c4910ad3d6823bac9bb0b.svg",
-    "static/media/gpay.webp": "/simple-shop-react/static/media/gpay.3d44283254573fb4f571.webp",
     "static/media/delivery-logo.webp": "/simple-shop-react/static/media/delivery-logo.3d393efe0d5ab1cb0cf2.webp",
     "index.html": "/simple-shop-react/index.html",
     "static/media/Pay.svg": "/simple-shop-react/static/media/Pay.8998395fa68853c02d3f80fa2bc48450.svg",
     "main.4b165e7e.css.map": "/simple-shop-react/static/css/main.4b165e7e.css.map",
-    "main.8114c795.js.map": "/simple-shop-react/static/js/main.8114c795.js.map",
+    "main.bc283ca2.js.map": "/simple-shop-react/static/js/main.bc283ca2.js.map",
     "787.7de8d527.chunk.js.map": "/simple-shop-react/static/js/787.7de8d527.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b165e7e.css",
-    "static/js/main.8114c795.js"
+    "static/js/main.bc283ca2.js"
   ]
 }
